@@ -1,0 +1,21 @@
+/* selector de clase */
+.color-rojo {
+    color: red;
+}
+
+/* selector de id */
+#titulo-pagina {
+    font-size: 65px;
+    font-weight: 800;
+    text-decoration: underline;
+    color: blue;
+}
+
+/* selector de elemento o selector de etiqueta */
+h3 {
+    color: blueviolet;
+}
+
+.img-general {
+    height: 100px;
+}
