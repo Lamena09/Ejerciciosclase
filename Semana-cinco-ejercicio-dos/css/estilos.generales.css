@@ -1,0 +1,56 @@
+.conteiner{
+    display:flex ;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-wrap: wrap;
+    margin
+
+}
+
+.card {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0,35) 0px 5px 10px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: white;
+    color: purple;
+    border: 1px solid rgb(128, 0, 128);
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition: all 0.5s ease;
+    }
+
+.btn:hover {
+    background-color: purple;
+    color: white;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.card-title-container {
+    border-bottom: 1px solid rgb(199, 199, 199);
+    margin-bottom:  20px;
+}
+
+
+
+
+
+
+
